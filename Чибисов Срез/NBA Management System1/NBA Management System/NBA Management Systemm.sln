@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBA Management System", "NBA Management System\NBA Management System.csproj", "{DD7A14A8-EEF6-4E42-8477-572284B1D245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD7A14A8-EEF6-4E42-8477-572284B1D245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD7A14A8-EEF6-4E42-8477-572284B1D245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD7A14A8-EEF6-4E42-8477-572284B1D245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD7A14A8-EEF6-4E42-8477-572284B1D245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBF525D1-FE9B-4C3F-BE5D-8E23C85B73BA}
+	EndGlobalSection
+EndGlobal
